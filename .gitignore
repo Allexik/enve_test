@@ -1,0 +1,16 @@
+__pycache__/
+.idea
+/enve_test/settings_local.py
+
+/live-static-files/*
+!/live-static-files/media-root
+/live-static-files/media-root/*
+!/live-static-files/media-root/test_image.jpg
+
+db.sqlite3
+/venv/
+
+/postgres_data/
+
+
+!.gitkeep
